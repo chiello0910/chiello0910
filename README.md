@@ -1,16 +1,13 @@
-## Hi there 👋
+Creative Media Producer | Data-Driven Storytelling | Audience Analytics | Digital Content Strategy | 
 
-<!--
-**chiello0910/chiello0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Archiello Putra Irawan
 
-Here are some ideas to get you started:
+I'm a Media Production student at Universitas Indonesia, passionate about blending creativity with data to tell compelling digital stories. I’m particularly interested in how insights into audience behavior can inform smarter content strategies and drive genuine engagement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 I love exploring how data and AI can support the creative process from building interactive dashboards with **Streamlit**, to using tools like **ChatGPT** and **Gemini** for content ideation and sentiment analysis.
+
+🎬 With a background in media production and a strong interest in strategy, I enjoy working at the intersection of storytelling, technology, and user experience. I’ve also worked with strategic frameworks, such as **ABCD**, to optimize video performance and campaign effectiveness.
+
+💡 I'm always looking to learn, collaborate, and contribute to innovative projects that combine content, design, and data to make an impact.
+
+Let’s connect and create something meaningful!
